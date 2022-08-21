@@ -24,11 +24,17 @@
 
 
 #Step 6: copy the url highlighted on your chosen browser to see display the dashboard.
+
 ![image](https://user-images.githubusercontent.com/57564713/185801678-a75236d1-5cc5-4593-8147-d4a51281e2fb.png)
+
+
 
 ![image](https://user-images.githubusercontent.com/57564713/185801585-c5bd1a6f-02e5-4348-a536-a3145572144c.png)
 
+
+
 ![image](https://user-images.githubusercontent.com/57564713/185801590-7c6831ef-a8ec-4bc6-a0a9-1b5e06f1f07b.png)
+
 
 ![image](https://user-images.githubusercontent.com/57564713/185801597-52571ce6-de01-4311-9205-3ec091318df6.png)
 
