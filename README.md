@@ -7,7 +7,7 @@
 
 #Step 3: at the top browser tap, type cmd to access the command prompt terminal.
 
-![image](https://user-images.githubusercontent.com/57564713/185800778-918ae595-1d80-4044-b2e5-3f6d646f03af.png)
+![image](https://user-images.githubusercontent.com/57564713/185801122-cd7c2769-a6f1-428c-a543-674f840204a6.png)
 
 
 #Step 4: at the cmd command line, type python dashboard.py
