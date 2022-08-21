@@ -11,7 +11,9 @@
 
 
 #Step 4: at the cmd command line, type python dashboard.py
-![image](https://user-images.githubusercontent.com/57564713/185800545-bebc8397-60d7-4bc0-b84c-3c0c4e22c9dc.png)
+
+![image](https://user-images.githubusercontent.com/57564713/185801146-6020c603-e748-4757-9cfe-4049ff4f2d81.png)
+
 
 
 
