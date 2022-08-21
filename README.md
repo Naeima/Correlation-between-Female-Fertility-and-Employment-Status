@@ -1,5 +1,5 @@
 # Female-fertility-and-employment-status
-''This code creates an interactive dashboard to visualise a study about the relationship between the female fertility and her employment status across UK regions. Multiple datasets were selected and analyised, key findings were communicated.
+''This project creates an interactive dashboard to visualise a study about the relationship between the female fertility and her employment status across UK regions. Multiple datasets were selected and analyised, key findings were communicated.
 # To run the dasboard
 #Step 1: Download dashboard.py and  master.csv in on directlory
 
