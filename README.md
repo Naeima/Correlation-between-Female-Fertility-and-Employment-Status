@@ -18,7 +18,7 @@
 
 #Step 5: the below output is executed
 
-![image](https://user-images.githubusercontent.com/57564713/185801201-6417ecb9-3fc6-47c1-9cf0-2056fbfa0d75.png)
+![image](https://user-images.githubusercontent.com/57564713/185801264-f0cb8fcd-711e-47f2-9237-d11e61c1955c.png)
 
 
 
