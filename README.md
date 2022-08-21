@@ -12,7 +12,7 @@
 
 #Step 4: at the cmd command line, type python dashboard.py
 
-![image](https://user-images.githubusercontent.com/57564713/185801146-6020c603-e748-4757-9cfe-4049ff4f2d81.png)
+![image](https://user-images.githubusercontent.com/57564713/185801170-f882f9df-43de-43fa-9899-e42f80ea12cf.png)
 
 
 
