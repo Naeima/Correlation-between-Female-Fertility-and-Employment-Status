@@ -24,7 +24,8 @@
 
 
 #Step 6: copy the url highlighted on your chosen browser to see display the dashboard.
-![image](https://user-images.githubusercontent.com/57564713/185800438-3f006e07-aa37-4fc6-8127-7068106c2295.png)
+![image](https://user-images.githubusercontent.com/57564713/185801321-e2b018df-5449-4afd-b9f9-ac33f3d949e5.png)
+
 
 
  
