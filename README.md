@@ -6,7 +6,7 @@ Step 1: Download dashboard.py and  master.csv in on directlory
 Step 2: Open folder where the file was downloaded.
 
 Step 3: at the top browser tap, type cmd to access the command prompt terminal.
-![image](https://user-images.githubusercontent.com/57564713/185800390-f30073af-cef0-4522-a234-164601d01b65.png)
+![image](https://user-images.githubusercontent.com/57564713/185800778-918ae595-1d80-4044-b2e5-3f6d646f03af.png)
 
 Step 4: at the cmd command line, type python dashboard.py
 ![image](https://user-images.githubusercontent.com/57564713/185800545-bebc8397-60d7-4bc0-b84c-3c0c4e22c9dc.png)
