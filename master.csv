@@ -1,0 +1,109 @@
+Region,Year,Employment Rate,Unemployment Rate,Fertility Rate
+Wales,2008,63.4,6.2,1.97
+Wales,2009,63.3,6,1.93
+Wales,2010,62.6,7.1,1.98
+Wales,2011,63.1,7.3,1.9
+Wales,2012,64.8,7,1.88
+Wales,2013,66.3,5.8,1.8
+Wales,2014,66.8,5.8,1.78
+Wales,2015,67.7,4.4,1.77
+Wales,2016,68.6,4.9,1.74
+North East,2008,63.2,7.8,1.85
+North East,2009,63.3,7.6,1.81
+North East,2010,60.6,8.7,1.85
+North East,2011,61.7,9.1,1.85
+North East,2012,62.5,9,1.83
+North East,2013,64,9,1.75
+North East,2014,64.9,7.2,1.72
+North East,2015,66.2,5.9,1.71
+North East,2016,66.7,6,1.72
+North West,2008,64.1,6.7,2.01
+North West,2009,64.1,6.9,2
+North West,2010,63.9,7,2.03
+North West,2011,64.4,7.3,1.93
+North West,2012,65.6,6.9,1.94
+North West,2013,65.1,6.5,1.88
+North West,2014,66,5.5,1.86
+North West,2015,67.6,4.6,1.86
+North West,2016,68.7,3.9,1.85
+Yorks and Humber,2008,65,6.4,1.92
+Yorks and Humber,2009,64,7,1.91
+Yorks and Humber,2010,63.3,7.8,1.89
+Yorks and Humber,2011,63.9,8.3,1.92
+Yorks and Humber,2012,64.9,8.1,1.94
+Yorks and Humber,2013,65.7,7.5,1.86
+Yorks and Humber,2014,67.8,5.8,1.85
+Yorks and Humber,2015,67.9,5.2,1.83
+Yorks and Humber,2016,68.2,4,1.82
+East Midlands,2008,66.9,6.6,1.93
+East Midlands,2009,66.6,6.4,1.92
+East Midlands,2010,65.5,7.3,1.97
+East Midlands,2011,65.9,8,1.94
+East Midlands,2012,66.1,7.5,1.95
+East Midlands,2013,68.9,5.2,1.84
+East Midlands,2014,68.6,4.9,1.84
+East Midlands,2015,69.7,4,1.84
+East Midlands,2016,68.9,4.5,1.82
+West Midlands,2008,63.7,7.4,2.09
+West Midlands,2009,62.8,7.1,2.11
+West Midlands,2010,61.6,7.7,2.09
+West Midlands,2011,62.4,8,2.02
+West Midlands,2012,63.4,8.5,2.04
+West Midlands,2013,64.3,6.7,1.96
+West Midlands,2014,64.7,5.5,1.92
+West Midlands,2015,65.1,5.7,1.9
+West Midlands,2016,66.4,5,1.91
+East,2008,69.1,5.4,2.01
+East,2009,67.5,6,2
+East,2010,67.3,6,2.03
+East,2011,68.8,6.5,1.99
+East,2012,69.6,6.3,2.02
+East,2013,70.3,5,1.92
+East,2014,71.4,3.9,1.92
+East,2015,71.6,3.8,1.92
+East,2016,72.6,3.3,1.91
+London,2008,60.2,9,1.93
+London,2009,61,9,1.95
+London,2010,60.3,9.6,2
+London,2011,60.5,9.5,1.84
+London,2012,62.4,9.1,1.84
+London,2013,64.1,7.6,1.74
+London,2014,65.5,6.6,1.71
+London,2015,66.7,6.6,1.73
+London,2016,67.2,6,1.72
+South East,2008,69.9,4.9,1.97
+South East,2009,69.2,5.2,1.97
+South East,2010,69.2,5.4,2.01
+South East,2011,68.9,6,1.96
+South East,2012,69.4,6.3,1.97
+South East,2013,71.1,5,1.86
+South East,2014,72,4.6,1.86
+South East,2015,72.2,4.2,1.86
+South East,2016,73.7,3.5,1.84
+South West,2008,69.9,5,1.94
+South West,2009,68.9,5.2,1.94
+South West,2010,69.2,5.5,1.99
+South West,2011,69.1,5.1,1.95
+South West,2012,70.2,5.5,1.96
+South West,2013,71.2,4.9,1.87
+South West,2014,72.5,4.1,1.85
+South West,2015,73,4.1,1.82
+South West,2016,74.2,3.4,1.79
+Scotland,2008,68.02,5.69,1.8
+Scotland,2009,67.41,6.09,1.73
+Scotland,2010,66.7,6.96,1.75
+Scotland,2011,66.66,7.21,1.73
+Scotland,2012,66.98,6.76,1.67
+Scotland,2013,68.54,6.07,1.61
+Scotland,2014,69.99,5.08,1.62
+Scotland,2015,69.15,4.39,1.56
+Scotland,2016,70.66,3.8,1.52
+Northern Ireland,2008,61.02,3.82,2.11
+Northern Ireland,2009,60.61,4.31,2
+Northern Ireland,2010,62.23,4.8,2.06
+Northern Ireland,2011,63.31,5.06,2.06
+Northern Ireland,2012,62.46,5.19,2.03
+Northern Ireland,2013,63.86,4.06,2
+Northern Ireland,2014,62.9,4.95,1.97
+Northern Ireland,2015,63.86,5.38,1.96
+Northern Ireland,2016,65.47,3.33,1.96
