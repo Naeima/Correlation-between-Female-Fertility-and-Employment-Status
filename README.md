@@ -3,7 +3,7 @@ This project creates an interactive dashboard to visualise a study about the rel
 
 
 # Running the Dashboard
-1) Download dashboard.py and  master.csv in on directlory
+1) Download dashboard.py and  master.csv in the same directory.
 
 2) Open folder where the file was downloaded.
 
