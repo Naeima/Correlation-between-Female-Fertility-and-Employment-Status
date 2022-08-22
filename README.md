@@ -3,6 +3,8 @@ This project creates an interactive dashboard to visualise a study about the rel
 
 
 # Running the Dashboard
+"Install required libraries: dash-plotly-scipy-numpy-pandas"
+
 1) Download dashboard.py and  master.csv in the same directory.
 
 2) Open folder where the file was downloaded.
