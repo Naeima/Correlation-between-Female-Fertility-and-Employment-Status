@@ -1,11 +1,9 @@
 
 
-'''This code creates an interactive dashboard to visualise a study about the relationship between the female fertility and her employment status.
-multiple datasets were selected and analyised, key findings were communicated.
+'''This code creates an interactive dashboard to visualise a study about the relationship between female fertility and employment status.
+Multiple datasets were selected and analysed, and critical findings were communicated.
 
-The visualisations types and dashboard ideas were adapted from this coursework's module(CM212). '''
-'''This code was adapted from:Udemy. 2019. Online Courses - Anytime, Anywhere | Udemy.[online] Available at
-https://www.udemy.com/interactive-python-dashboards-with-plotly-and-dash/learn/lecture/9527932#questions/6871174 [Accessed 20 Apr. 2019]'''
+
 
 '''To run:
 ........... python dashboad.py'''
