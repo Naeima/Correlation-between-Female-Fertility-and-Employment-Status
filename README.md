@@ -1,5 +1,5 @@
 # Female-fertility-and-employment-status
-This project creates an interactive dashboard to visualise a study about the relationship between the female fertility and her employment status across UK regions. Multiple datasets were selected and analyised, key findings were communicated.
+This project creates an interactive dashboard to visualise a study about the relationship between female fertility and employment status across UK regions. Multiple datasets were selected and analysed, and key findings were communicated.
 
 
 # Running the Dashboard
